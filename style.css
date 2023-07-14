@@ -67,7 +67,7 @@
     /*  main section */
 
   .main {
-    background-image: url("bg.png");
+    background-image: url("assets/bg.png");
     background-size: cover;
     background-attachment: fixed;
     height: 91.5vh;
